@@ -1,7 +1,7 @@
 +++
 title = "송하준"
 date = "2018-09-04T13:39:46+02:00"
-teams = ["교수진"]
+teams = ["교수"]
 banner = "img/people/HajoonSong.png"
 email = "hajsong@yonsei.ac.kr"
 job = "조교수"
@@ -16,6 +16,7 @@ weight = 10
 + 탄소순환
 + 대기-해양 모델링
 + 자료동화
++ 해양순환
 
 #### 학력
 + **Ph.D.** (2011) Scripps Institution of Oceanography, University of California, San Diego, USA
@@ -31,10 +32,10 @@ weight = 10
 + 2005 : Research assistant, Korea Institute of Ocean Science & Technology, Ansan, Korea
 
 #### 담당과목
-+ [대기 해양 대순환](https://hajsong.github.io/ATM2106/)
++ [대기 해양 순환](https://hajsong.github.io/ATM2106/)
 + [해양 모델링](https://hajsong.github.io/ATM9107/)
 + [기상 프로그래밍](https://hajsong.github.io/ATM4110/)
-+ 대기 해양 순환
++ 대기 해양 상호작용
 + 해양 물리
 
 #### 논문
